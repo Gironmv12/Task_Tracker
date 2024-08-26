@@ -1,0 +1,25 @@
+.body {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .task-section {
+    width: 30%;
+  }
+  
+  .task {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .task h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .task p {
+    margin: 5px 0 0;
+  }
